@@ -9,7 +9,6 @@
 ### Dynamic output that updates recommended cafes based on user input
 ### Display of cafe data including ratings and key attributes
 ### Clean and structured layout with clear instructions for users
-### Planned Features (Final Version)
 ### Interactive map showing nearby cafes based on user location
 ### Detailed “Workcafe Score” based on factors like outlets, noise level, comfort, and vibe
 ### Ability for users to submit reviews and rate cafes
