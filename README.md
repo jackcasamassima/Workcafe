@@ -13,12 +13,12 @@
 ### Interactive map showing nearby cafes based on user location
 ### Detailed “Workcafe Score” based on factors like outlets, noise level, comfort, and vibe
 ### Ability for users to submit reviews and rate cafes
-### Favorites system to save preferred locations
+### Visited system to save preferred locations
 ### Integration with real-world data sources or APIs
 
-## How to Run
+## How to Run:
 ### Install dependencies:
 ### pip install streamlit streamlit-folium
 
-## Run the app:
+## Run the App:
 ### streamlit run "Workcafe app.py"
