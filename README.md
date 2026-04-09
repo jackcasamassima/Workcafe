@@ -14,6 +14,10 @@
 ### Ability for users to submit reviews and rate cafes
 ### Visited system to save preferred locations
 
+## Final Version Features:
+### More accurate color-scaling system
+### Live feature to see other user's reviews
+
 ## How to Run:
 ### Install dependencies:
 ### pip install streamlit streamlit-folium
