@@ -13,7 +13,6 @@
 ### Detailed “Workcafe Score” based on factors like outlets, noise level, comfort, and vibe
 ### Ability for users to submit reviews and rate cafes
 ### Visited system to save preferred locations
-### Integration with real-world data sources or APIs
 
 ## How to Run:
 ### Install dependencies:
