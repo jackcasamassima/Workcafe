@@ -4,7 +4,7 @@
 
 ## Workcafe is a Streamlit app designed to help users find cafes and third spaces that are suitable for studying, working, or relaxing. The app allows users to filter locations based on preferences such as rating, environment, and amenities, and provides a “Workcafe Score” to evaluate how suitable each location is for productivity.
 
-## Features Implemented (Assignment 2)
+## Features Implemented:
 ### Interactive input widgets (e.g., slider, selectbox, checkbox) to capture user preferences
 ### Dynamic output that updates recommended cafes based on user input
 ### Display of cafe data including ratings and key attributes
